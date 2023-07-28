@@ -2,6 +2,8 @@
 
 ## Réplica do arbnb
 
+### Estudando sobre Banco de Dados.
+
 instalar
 ` yarn add prisma typescript ts-node @types/node --save-dev`
 
